@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.SUMMARY_CARD_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
           GH_TOKEN: ${{ secrets.STATS_CARD_TOKEN }}
