@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<p>Currently an AI Engineer Apprentice under Super AI Engineer Season 2/p>
+<p>Currently an <b>AI Engineer Apprentice under Super AI Engineer Season 2</b></p>
 
 - 📫 How to reach me **p.engineering6415@gmail.com**
 
