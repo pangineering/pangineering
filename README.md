@@ -25,7 +25,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pangineering&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pangineering&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pangineering&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pangineering&theme=vue
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pangineering&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pangineering&theme=vue&utcOffset=8)
 # WakaTime Stat
 <!--START_SECTION:waka-->
