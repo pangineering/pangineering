@@ -21,6 +21,9 @@
 
 <img align="center" src="profile-3d-contrib/profile-night-view.svg" alt="pangineering" />
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pangineering&theme=vue)
+
 # WakaTime Stat
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
