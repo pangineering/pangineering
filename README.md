@@ -45,6 +45,7 @@
 
 # WakaTime Stat
 <!--START_SECTION:waka-->
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&pangineering&layout=compact&&theme=default&link="https://www.github.com/pangineering/")
 <!--END_SECTION:waka-->
 
 
