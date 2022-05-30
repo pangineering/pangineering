@@ -2,9 +2,11 @@
 
 <p>Currently an <b>AI Engineer Apprentice under Super AI Engineer Season 2</b></p>
 
-- 📫 How to reach me **p.engineering6415@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **p.engineering6415@gmail.com**
+
 <p align="left">
 </p>
 
@@ -27,9 +29,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pangineering&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pangineering&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pangineering&theme=vue&utcOffset=8)
-# WakaTime Stat
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 
 
@@ -41,6 +41,12 @@
 ✅  Completed 4 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
+
+
+# WakaTime Stat
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 **pangineering/pangineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
