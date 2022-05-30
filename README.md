@@ -45,9 +45,9 @@
 
 # WakaTime Stat
 <!--START_SECTION:waka-->
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&pangineering&layout=compact&&theme=default&link="https://www.github.com/pangineering/")
-<!--END_SECTION:waka-->
 
+<!--END_SECTION:waka-->
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&pangineering&layout=compact&&theme=default&link="https://www.github.com/pangineering/")
 
 <!--
 **pangineering/pangineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
