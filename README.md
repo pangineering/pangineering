@@ -46,6 +46,13 @@
 # WakaTime Stat
 <!--START_SECTION:waka-->
 
+```text
+Python     49 mins         █████████████████▓░░░░░░░   70.13 %
+Markdown   19 mins         ███████░░░░░░░░░░░░░░░░░░   27.87 %
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
