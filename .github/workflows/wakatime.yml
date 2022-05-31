@@ -14,4 +14,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_COMMIT: True
