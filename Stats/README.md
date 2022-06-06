@@ -1,15 +1,6 @@
-![Header](./header.png)
-
-<p>Currently an <b>AI Engineer Apprentice under Super AI Engineer Season 2</b></p>
 
 <p align="center">
   <img src="badges/ai@2x.png" alt="example badge" style="vertical-align:top margin:6px 4px">
-</p>
-
-<h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **p.engineering6415@gmail.com**
-
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
