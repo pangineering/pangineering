@@ -18,6 +18,8 @@ Currently an AI Engineer Apprentice under Super AI Engineer Season 2
 
 
 # 📊GitHub Stats :
+<a href="https://github.com/pangineering/pangineering/tree/main/Stats">see more stats</a>
+
 ![](https://github-readme-stats.vercel.app/api?username=pangineering&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pangineering&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pangineering&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
