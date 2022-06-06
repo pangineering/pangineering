@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+Coding+stats+are+as+below)](https://git.io/typing-svg)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pangineering&show_icons=true&locale=en&layout=compact" alt="pangineering" /></p>
 
@@ -7,7 +9,7 @@
 
 
 
-<img align="center" src="profile-3d-contrib/profile-night-view.svg" alt="pangineering" />
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pangineering&theme=vue)
