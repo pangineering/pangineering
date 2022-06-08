@@ -38,8 +38,8 @@ Currently an AI Engineer Apprentice under Super AI Engineer Season 2
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pangineering)  
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pangineering)  
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me a Coffee', '#288ae0', 'F2F0D4YM6');kofiwidget2.draw();</script> 
-  
+ [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pangineering) 
+    <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ## Connect with me
 - 📫 How to reach me **p.engineering6415@gmail.com**
