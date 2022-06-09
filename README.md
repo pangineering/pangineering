@@ -6,6 +6,9 @@ I am a AI and Robotic engineer, a Full-stack Developer, and a Maker.
 A practical and versatile engineer, who speaks three languages, has experience working on engineering drawings and creating 3D models, and can code full-stack web apps, hardware, robots, and AI, is passionately looking to pursue a career in robotic and AI field.
 
 Currently an AI Engineer Apprentice under Super AI Engineer Season 2
+## Connect with me
+- 📫 How to reach me **p.engineering6415@gmail.com**
+- For Freelancing: <a href="/freelancing/HIREME.md">Hire me</a>
 
 <p align="center">
   <img src="badges/ai@2x.png" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -41,5 +44,4 @@ Currently an AI Engineer Apprentice under Super AI Engineer Season 2
  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pangineering) 
     <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Connect with me
-- 📫 How to reach me **p.engineering6415@gmail.com**
+

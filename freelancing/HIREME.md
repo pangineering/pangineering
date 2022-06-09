@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=410&height=100&lines=Have+a+Great+Tech+Idea;Hire+me+to+help+you+with+your+Tech+Project)](https://git.io/typing-svg)
