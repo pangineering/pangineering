@@ -40,7 +40,7 @@ Currently an AI Engineer Apprentice under Super AI Engineer Season 2
 
 ## My Website
 
-![alt text](https://pagespeed-insights.herokuapp.com?url=https://pangineering.github.io "tooltip text")
+![alt text](web_perf.svg "tooltip text")
 
 
   ## 💰You can help me by Donating
