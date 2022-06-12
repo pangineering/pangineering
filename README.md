@@ -39,7 +39,7 @@ Currently an AI Engineer Apprentice under Super AI Engineer Season 2
 [![](https://visitcount.itsvg.in/api?id=pangineering&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## My Website
-https://pagespeed-insights.herokuapp.com?urlpangineering.github.io
+https://pagespeed-insights.herokuapp.com?url=pangineering.github.io
 
 
   ## 💰You can help me by Donating
