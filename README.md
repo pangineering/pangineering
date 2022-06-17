@@ -38,6 +38,11 @@ Currently an AI Engineer Apprentice under Super AI Engineer Season 2
 ---
 [![](https://visitcount.itsvg.in/api?id=pangineering&icon=0&color=1)](https://visitcount.itsvg.in)
 
+## Wakatime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## My Website
 
 ![alt text](web_perf.svg "tooltip text")
