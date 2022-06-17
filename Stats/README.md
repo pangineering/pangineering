@@ -24,14 +24,6 @@
 ![](..//profile-3d-contrib/profile-green-animate.svg)
 
 
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-🏆  845 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 19 tasks so far           
-⏳  Longest streak is 1 days
-<!-- TODO-IST:END -->
 
 
 # WakaTime Stat
