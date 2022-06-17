@@ -3,7 +3,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pangineering&show_icons=true&locale=en&layout=compact" alt="pangineering" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pangineering&show_icons=true&locale=en" alt="pangineering" /></p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pangineering?cardType=level)](https://git.io/awesome-stats-card)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pangineering&" alt="pangineering" /></p>
 
