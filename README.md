@@ -6,6 +6,16 @@ I am a AI and Robotic engineer, a Full-stack Developer, and a Maker.
 A practical and versatile engineer, who speaks three languages, has experience working on engineering drawings and creating 3D models, and can code full-stack web apps, hardware, robots, and AI, is passionately looking to pursue a career in robotic and AI field.
 
 Currently an AI Engineer Apprentice under Super AI Engineer Season 2
+
+- 🔭 I’m currently working on Object detection and Speech recognition projects
+- 🌱 I’m currently learning how to create a chatbot
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+<!-- - 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ... -->
+- ⚡ Fun fact: I play violin and I love kpop.
+
 ## Connect with me
 - 📫 How to reach me **p.engineering6415@gmail.com**
 - For Freelancing: <a href="/freelancing/HIREME.md">Hire me</a>
@@ -40,90 +50,7 @@ Currently an AI Engineer Apprentice under Super AI Engineer Season 2
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-247-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 414 Contributions in the Year 2022
- > 
-> 📦 653.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 61 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    101 commits    █████░░░░░░░░░░░░░░░░░░░░   23.49% 
-🌆 Daytime    166 commits    █████████░░░░░░░░░░░░░░░░   38.6% 
-🌃 Evening    161 commits    █████████░░░░░░░░░░░░░░░░   37.44% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       77 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
-Tuesday      69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
-Wednesday    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.19% 
-Thursday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-Friday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
-Saturday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.26% 
-Sunday       118 commits    ██████░░░░░░░░░░░░░░░░░░░   27.44%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-JavaScript               4 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.35% 
-Python                   4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   34.81% 
-HTML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.34% 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57%
-
-🔥 Editors: 
-VS Code                  12 hrs 4 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-constuction-manager      5 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.7% 
-med-drink-or-dose        3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   30.11% 
-pangineering.github.io   1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
-sale-prediction          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.4% 
-Med_object               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
-
-💻 Operating System: 
-Mac                      12 hrs 4 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               8 repos             ████████░░░░░░░░░░░░░░░░░   34.78% 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/pangineering/pangineering/main/charts/bar_graph.png) 
-
-
- Last Updated on 27/06/2022 22:19:44 UTC
 <!--END_SECTION:waka-->
 
 
