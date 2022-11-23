@@ -7,8 +7,8 @@ A practical and versatile engineer, who speaks three languages, has experience w
 
 Currently an AI Engineer Apprentice under Super AI Engineer Season 2
 
-- 🔭 I’m currently working on Object detection and Speech recognition projects
-- 🌱 I’m currently learning how to create a chatbot
+- 🔭 I’m currently working on Object detection and Robotics projects
+- 🌱 I’m currently learning about ROS.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 <!-- - 💬 Ask me about ...
