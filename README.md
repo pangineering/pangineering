@@ -17,7 +17,7 @@ Currently an AI Engineer Apprentice under Super AI Engineer Season 2
 - ⚡ Fun fact: I play violin and I love kpop.
 
 ## Connect with me
-- 📫 How to reach me **p.engineering6415@gmail.com**
+- 📫 How to reach me **pangineering5@gmail.com**
 - For Freelancing: <a href="/freelancing/HIREME.md">Hire me</a>
 
 <p align="center">
