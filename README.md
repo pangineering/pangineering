@@ -1,7 +1,7 @@
 
 
 # 💫About Me :
-I am a AI and Robotic engineer, a Full-stack Developer, and a Maker.
+I am a AI and Robotic engineer.
 
 A practical and versatile engineer, who speaks three languages, has experience working on engineering drawings and creating 3D models, and can code full-stack web apps, hardware, robots, and AI, is passionately looking to pursue a career in robotic and AI field.
 
