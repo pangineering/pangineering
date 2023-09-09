@@ -1,4 +1,4 @@
-![Header](./header.png)
+
 
 # 💫About Me :
 I am a AI and Robotic engineer, a Full-stack Developer, and a Maker.
